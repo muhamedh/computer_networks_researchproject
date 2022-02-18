@@ -1,6 +1,6 @@
 # Computer Networks - Introduction to network penetration testing
 
-### This research project was part of the Computer Networks subject, where we wrote on a selected topic. In my case it was Introduction to network penetration Testing.
+### This research project was part of the Computer Networks course, where we wrote on a selected topic. In my case it was Introduction to network penetration Testing.
 
 ### The research project provides an overview of network penetration phases and demonstrates a practical example of penetrating a Vulnerable by design VM web server, using Kali Linux
 
